@@ -1,5 +1,5 @@
 # easy-wins-email-defense
-### <img src="../_resources/2023-10-27%2014_52_29.png" alt="2023-10-27 14_52_29.png" width="706" height="382">
+### <img src="/_resources/2023-10-27%2014_52_29.png" alt="2023-10-27 14_52_29.png" width="706" height="382">
 
 ### Collection of resources/ideas/recommendations for reducing attack service for Microsoft 365/Microsoft Entra ID (AzureAD). The goal of these are to be EASY, low breakage, and cheap or free.
 
