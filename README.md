@@ -9,7 +9,7 @@
 
 ## 🌍Conditional Access - Block Countries you don't have users in
 
-By default. Authenticated access to a 365/Azure tenant is permitted from ANYWHERE. Make a named location and fill it with countries your users are not expected to login from and include it in the policy and select "block" under the "grant" section. To avoid locking yourself out if something goes sideways, you could exclude a breakglass admin account etc. This doesn't stop attackers from just using a VPN in the US, but this offers a solid reduction in attack surface.
+By default. Authenticated access to a 365/Azure tenant is permitted from ANYWHERE. Make a named location and fill it with countries your users are not expected to login from and include it in the policy and select "block" under the "grant" section. To avoid locking yourself out if something goes sideways, you could exclude a breakglass admin account etc. This doesn't stop attackers from just using a VPN in the US, but this offers a solid reduction in attack surface.  
 <img src="/_resources/2023-10-27%2014_37_07.png" alt="2023-10-27 14_37_07.png" width="686" height="377">
 
 ## 🪪Conditional Access - Require MFA for all Logins
