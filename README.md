@@ -57,49 +57,17 @@ Go to Policies & Rules > Threat Policies > Antispam (outbound) and edit the defa
 
 There are a myriad of email attachments that have a high likelihood of being malicious. You can block them entirely by going to Policies & Rules > Threat Policies > Antimalware. Edit the default policy, enable the common attachments filter, and add the extensions below. I would recommend leaving the action as quarantine so you have the option to recover any legit emails that get caught. 
 
-- bat
-    
-    chm
-    
-    cmd
-    
-    com
-    
-    exe
-    
-    hta
-    
-    htm
-    
-    iso
-    
-    js
-    
-    jse
-    
-    mshtml
-    
-    one
-    
-    ps1
-    
-    rar
-    
-    scr
-    
-    vbe
-    
-    vbs
-    
-    vhd
-    
-    wsf
-    
-    wsh
-    
-    lnk
-    
-    zip
+|          |          |          |          |
+|----------|----------|----------|----------|
+| bat      | hta      | jse      | scr      |
+| chm      | htm      | mshtml   | vbe      |
+| cmd      | iso      | one      | vbs      |
+| com      | js       | ps1      | vhd      |
+| exe      | lnk      | rar      | wsf      |
+|          | zip      |          | wsh      |
+
+
+
     
 
-### That's all for now. More will be added as needed. Thanks for checking this out.
+That's all for now. More will be added as needed. Thanks for taking the time to get this far 🤩!
