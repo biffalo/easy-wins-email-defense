@@ -31,7 +31,7 @@ Head to Entra/AzureAD admin center > Enterprise Apps > Security > Consent & Perm
 
 <img src="/_resources/2023-10-30%2007_27_14.png" alt="2023-10-30 07_27_14.png" width="825" height="490">
 
-<img src="/_resources/2023-10-30%2007_36_46.png" alt="2023-10-30 07_36_46.png" width="313" height="411">
+
 
 
 # 🎭Sign-in Risk Policy
