@@ -67,7 +67,9 @@ There are a myriad of email attachments that have a high likelihood of being mal
 |          | zip      |          | wsh      |
 
 
+## 🧑‍💻Alerting on AiTM/Proxy Phishing
 
+You can generate a canary token for AzureAd/Entra that will alert if you a proxy or cloned login page loads custom CSS from a domain that isn't microsoft. More info about setup can be found [HERE](https://blog.thinkst.com/2024/01/defending-against-the-attack-of-the-cloned-websites.html)
     
 
 That's all for now. More will be added as needed. Thanks for taking the time to get this far 🤩!
